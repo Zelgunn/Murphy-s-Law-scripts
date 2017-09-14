@@ -30,7 +30,8 @@ Trailer : https://www.youtube.com/watch?v=EIIizz38mJA
 Credits : https://www.youtube.com/watch?v=VZ81CNMiRgo
 ![https://www.youtube.com/watch?v=VZ81CNMiRgo](Illustrations/Credits.jpg)
 
-## Devices used
-Aptic device - Novint Falcon : 
+## Devices used  
+Aptic device - Novint Falcon :  
 ![Alt text](Illustrations/novint-falcon.jpg)
+XBox controller :  
 ![Alt text](Illustrations/controller.jpg)
