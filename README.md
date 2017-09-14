@@ -21,16 +21,16 @@ Horus can also use a special ability, pushing Murphy to help him jump over traps
 Because this gameplay is asymetrical and complementaty, it promotes communication and coordination between the players, leading to a very entertaining gameplay.
 
 ## User interface
-[Alt text](Illustrations/Murphy-s-Law-UI.jpg)
+![Alt text](Illustrations/Murphy-s-Law-UI.jpg)
 
 ## Videos
-Trailer : 
-[https://www.youtube.com/watch?v=EIIizz38mJA](Illustrations/Murphy-s-Law.jpg)
+Trailer : https://www.youtube.com/watch?v=EIIizz38mJA
+![https://www.youtube.com/watch?v=EIIizz38mJA](Illustrations/Murphy-s-Law.jpg)
 
-Credits :
-[Uploading in progress...](Illustrations/Credits.jpg)
+Credits : https://www.youtube.com/watch?v=VZ81CNMiRgo
+![https://www.youtube.com/watch?v=VZ81CNMiRgo](Illustrations/Credits.jpg)
 
 ## Devices used
 Aptic device - Novint Falcon : 
-[Alt text](Illustrations/novint-falcon.jpg)
-[Alt text](Illustrations/controller.jpg)
+![Alt text](Illustrations/novint-falcon.jpg)
+![Alt text](Illustrations/controller.jpg)
